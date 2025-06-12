@@ -1,4 +1,4 @@
-package DSA.Bit_wise.searching;
+package DSA.searching;
 
 import java.util.*;
 
